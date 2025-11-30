@@ -59,20 +59,20 @@ In this phase, I had to determine a theme/topic for my PAT, research what data I
 - Include at least three different data types (Text, Numeric, Date, Yes/No).  
 - Be sortable and allow calculations.
 
-**Proof of Research**
+**Proof of Research:**
 
 ![Research 1](https://github.com/user-attachments/assets/f506755b-ae93-48f6-abc2-c713a86bfb81)
 ![Research 2](https://github.com/user-attachments/assets/9a2708fd-8615-43ec-bd80-0bc8cd87d45f)
 
-**Table Design**
+**Table Design:**
 
 ![Table Design](https://github.com/user-attachments/assets/71bda7f2-63eb-4a3a-a66c-7249e935e6c0)
 
-**Actual Data**
+**Actual Data:**
 
 ![Actual Data](https://github.com/user-attachments/assets/00c38262-32f1-419c-99e4-24936a0101e2)
 
-**Calculated/Processed Data**  
+**Calculated/Processed Data:**  
 - Remaining water (in megalitres) = `CapacityML - UsedML`  
 - Yes/No field shows whether more water was used than allocated (`Yes` if `UsedML > AllocatedML`, otherwise `No`).
 
@@ -85,7 +85,7 @@ In this phase, I created an **OOP class** to manipulate entity data, e.g., water
 - Created the `WaterDB.accdb` database using Microsoft Access.  
 - Designed tables for water usage records with appropriate fields and data types.
 
-**Class Diagrams**
+**Class Diagrams:**
 
 ![Class Diagram 1](https://github.com/user-attachments/assets/c291e290-2ca6-4a19-be5a-a82ba728e053)
 ![Class Diagram 2](https://github.com/user-attachments/assets/ccb009f0-9d2e-40e8-8a98-6a03b89be197)
@@ -97,11 +97,11 @@ Check `PAT Phase 3_SemiraNee-Whang_11.pdf` for detailed information.
 - Implemented Java classes to connect to the database using UCanAccess.  
 - Developed methods for **CRUD operations** (Create, Read, Update, Delete).
 
-**Database Table**
+**Database Table:**
 
 ![Database Table](https://github.com/user-attachments/assets/bd825622-0d6b-454b-9d56-22be60f74014)
 
-**GUI Populated**
+**GUI Populated:**
 
 ![GUI Populated](https://github.com/user-attachments/assets/71155966-7443-4948-a458-2739efd358c2)
 
@@ -115,15 +115,15 @@ Check `PAT Phase 4_SemiraNee-Whang.pdf` for detailed information.
 - Added functionality to **delete existing records** from the database.  
 - Focused on making the interface **user-friendly and intuitive** while meeting PAT requirements.
 
-**GUI: Filter and Sorting**
+**GUI: Filter and Sorting:**
 
 ![Filter & Sorting](https://github.com/user-attachments/assets/c175e212-5921-4aca-84ec-f2ddc721964d)
 
-**GUI: Insert Record**
+**GUI: Insert Record:**
 
 ![Insert](https://github.com/user-attachments/assets/a82a6bb4-ffa8-420c-a0a0-5493355b8e5d)
 
-**GUI: Delete Record**
+**GUI: Delete Record:**
 
 ![Delete](https://github.com/user-attachments/assets/75ce1052-1bad-42c5-a8c5-2846b9f22fa1)
 
