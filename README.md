@@ -62,7 +62,10 @@ In this phase, I had to determine a theme/topic for my PAT, research what data I
 **Proof of Research:**
 
 ![Research 1](https://github.com/user-attachments/assets/f506755b-ae93-48f6-abc2-c713a86bfb81)
+<img width="918" height="320" alt="image" src="https://github.com/user-attachments/assets/089361a7-ec28-4d31-be61-9b9acb5cac70" />
+<img width="1165" height="857" alt="image" src="https://github.com/user-attachments/assets/03663f23-d9c3-4890-b787-118c826b6d05" />
 ![Research 2](https://github.com/user-attachments/assets/9a2708fd-8615-43ec-bd80-0bc8cd87d45f)
+<img width="966" height="258" alt="image" src="https://github.com/user-attachments/assets/7d587fc9-f2d1-456d-896d-a77c665a7ac6" />
 
 **Table Design:**
 
